@@ -1,0 +1,11 @@
+- Introduction (Project Summary, Data cleaning, Aim & Introduction) > https://www.loom.com/share/67501524e9cd43c0966f4f5780010217?sid=6bd100b5-30ec-479c-be59-b7d453b86221
+
+- Questions (Main Task Query & Actual output along-with analysis explanation) > https://www.loom.com/share/27c00c4115824aa2ad704a5861eb29ec?sid=8717bda8-1b4f-4c64-9f20-81735cc08111
+
+- Dashboard (Interactive dashboards can be explained either by visting the published link and exploring or by watching the video explanation to get the insights more detailed., plain charts or screenshot does not show the actual interactions so visit the dashboard or see ppt) > https://www.loom.com/share/d2d6476a3c304ccca580d6188edb22ed?sid=58aaf169-6a2b-416c-a888-dd180d4c2fc4
+
+- PowerBI Dashboard to interact & see the insights > https://app.powerbi.com/view?r=eyJrIjoiMzg4NzdmNDItZDdhZi00N2JhLThiM2ItMDlhOGI0MjgxNTZlIiwidCI6IjFmNzZhZDgzLTgyMmEtNGRmNC05NmUwLTk2N2ZhYTdmZGRiMyJ9
+
+- Complete Loom PPT Folder Link > https://www.loom.com/share/folder/2d34a72c2fe1415a8e9a2042905146be
+
+- Google Drive Link > https://drive.google.com/drive/folders/1nV7tw9Kzm-jiiWnhbOel3uYJXzSJCP5I
