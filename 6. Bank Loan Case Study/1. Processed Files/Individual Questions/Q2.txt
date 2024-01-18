@@ -1,0 +1,1 @@
+I have not placed Q2 separtely as it keeps crashing my excel when i try to copy or move the question in new workbook duue to presence of large number of graphs , connections and pivot table use.

@@ -1,0 +1,15 @@
+Introduction & Project Description - https://www.loom.com/share/7ee56efa794b4f20ba60f1fbf64a7b02?sid=66badf86-fc00-48bb-bf17-640d4a923b20
+
+Q1 - Missing value identification & Treatment - https://www.loom.com/share/e46927a075c5454698b2cdd4428c94f4?sid=11a873fc-51a7-4b5e-9237-4677f2b4720d
+
+Q2 - Outlier Detection - https://www.loom.com/share/96dc64ddbcc14528a138e757a44d2e7c?sid=58b711ca-2e6b-47ce-bff8-f395d99bb9ff
+
+Q3 - Data Imbalance - https://www.loom.com/share/09a09785538944e48a28c0b2be7a993f?sid=4688f305-aa0b-478a-9518-0072c39b49cc
+
+Q4 - Variate Analysis - https://www.loom.com/share/948be2704d7c43c4988007009eb297bc?sid=da86cbee-c44a-4708-82bf-a13b65ea3d0a
+
+Q5 - Correlation - https://www.loom.com/share/b8865a6932a04d079f6d297c640bfaad?sid=afd01313-d9bf-432d-9c89-118e0849dcc8
+
+Loom Bank Loan Case Study Public Folder - https://loom.com/share/folder/6d8bf79fb6874547bb8b7839e0d319c6
+
+All the links are present in the pdf report alongside each question and on these drive folder (https://drive.google.com/drive/folders/1htfP3cgU0H8fdxWFiteCs6bR7oFrKXNX)
