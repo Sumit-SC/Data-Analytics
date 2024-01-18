@@ -1,0 +1,9 @@
+event,date,daily_metric
+skip,2020-11-30,0.067
+transfer,2020-11-30,0.040
+decision,2020-11-29,0.050
+transfer,2020-11-28,0.045
+decision,2020-11-28,0.091
+decision,2020-11-27,0.010
+skip,2020-11-26,0.018
+transfer,2020-11-25,0.022
